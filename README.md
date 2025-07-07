@@ -14,3 +14,13 @@ Game reset functionality
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/pruthvi18y/rock-paper-scissors-game.git
+2. **Navigate to the project folder:**
+   cd rock-paper-scissors-game
+3.  Open the index.html file in your web browser:
+      Double-click index.html, or
+      Use Live Server in VS Code for a better experience
+🙌 Acknowledgments
+This is a beginner-friendly JavaScript project perfect for practicing DOM manipulation and event handling.
+
+🙌 Author
+Made with ❤️ by Pruthvi Yerukonda
